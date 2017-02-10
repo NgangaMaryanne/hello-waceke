@@ -1,3 +1,6 @@
 # hello-waceke
 this is my first repository on Git
-i hope this works
+I like tacos, samosas, ruby and python
+
+testing 2 testing 2
+
